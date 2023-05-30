@@ -1,2 +1,0 @@
-# TestImage
-ffff
